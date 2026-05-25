@@ -1,0 +1,8 @@
+images/
+labels/
+*.pyc
+__pycache__/
+.env
+.venv/
+*.tmp
+*.log
